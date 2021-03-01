@@ -1,0 +1,57 @@
+{
+  "_from": "vue-selecttree",
+  "_id": "vue-selecttree@1.0.6",
+  "_inBundle": false,
+  "_integrity": "sha512-HQQueOh9/h++H707sqH6fzxA+2NyOgnb5BlPdElMUA2XTlydVoMbs4EQFyeksxHcL6SzxXDoO3JMgC15VILN1A==",
+  "_location": "/vue-selecttree",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "vue-selecttree",
+    "name": "vue-selecttree",
+    "escapedName": "vue-selecttree",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/vue-selecttree/-/vue-selecttree-1.0.6.tgz",
+  "_shasum": "1a9135bde16ee8c9d21f1073b39ac2e1b4603ef5",
+  "_spec": "vue-selecttree",
+  "_where": "C:\\Users\\Administrator.W2L9XP9IN2L1PRG\\Desktop\\hz-ylt\\physicalExamView",
+  "author": {
+    "name": "maxiaoqu",
+    "email": "Email:maxiaoqu@gmail.com  url:maxiaoqu.com"
+  },
+  "bugs": {
+    "url": "https://github.com/maxiaoqu/vue-selecttree/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "deepmerge": "^2.1.1",
+    "vue": "^2.5.17"
+  },
+  "deprecated": false,
+  "description": "``` import Vue from 'vue' import vueSelecttree from 'vue-selecttree'",
+  "homepage": "http://github.maxiaoqu.com/vue-selecttree",
+  "keywords": [
+    "vue",
+    "vue.js",
+    "tree",
+    "vue-tree",
+    "vue-selecttree",
+    "maxiaoqu"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "vue-selecttree",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxiaoqu/vue-selecttree.git"
+  },
+  "version": "1.0.6"
+}
